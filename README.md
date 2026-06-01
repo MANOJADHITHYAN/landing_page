@@ -23,7 +23,7 @@ I'm learning full stack development
 
 
 ## Demo
-https://vkparamesh.github.io/Zomato_clone_landing_page/
+https://manojadhithyan.github.io/Zomato_clone_landing_page/
 ## Feedback
 
 If you have any feedback, please reach out to us Manojadhithyan2603@gmail.com
